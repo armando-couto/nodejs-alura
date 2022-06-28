@@ -8,7 +8,7 @@
   "dependencies": {
     "body-parser": "1.13.1",
     "database-cleaner": "0.10.0",
-    "db-migrate": "0.9.16",
+    "db-migrate": "0.11.13",
     "ejs": "2.3.4",
     "express": "4.18.1",
     "express-load": "1.1.14",
