@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "should": "13.2.3",
-    "supertest": "6.3.4"
+    "supertest": "7.0.0"
   },
   "engines": {
     "node": "20.12.2"
